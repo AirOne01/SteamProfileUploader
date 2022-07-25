@@ -1,3 +1,7 @@
+# This project was abandonned
+
+For future reference, this was supposed to be an automatic steamcommunity bot that uploads content, change the profile page. Made mainly to change the profile picture and switch screenshots or artworks on a steam community profile based on a cron job (themed halloween/christmas pfp, etc...). Discontinued as it doesn't reaaaaaly follow steam's TOS
+
 # SteamProfileUploader
 
 ![Github code size](https://img.shields.io/github/languages/code-size/AirOne01/SteamProfileUploader)
